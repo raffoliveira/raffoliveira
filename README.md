@@ -20,6 +20,7 @@
 + 📞 +55 31 98699 8098
 
 [![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=raffoliveira&show_icons=true&theme=radical)](https://github.com/raffoliveira/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffoliveira&layout=compact)](https://github.com/raffoliveira/github-readme-stats)
 
 
