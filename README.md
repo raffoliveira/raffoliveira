@@ -7,7 +7,7 @@
 
 👨🏽‍💻 A student of Computer Engineering at UFOP
 
-🔭 I'm currently learning about data science, data visualization, machine learning and web design
+🔭 I'm currently learning about data science, data visualization, machine learning, web design, and devops
 
 🗣️ Feel free to ask me anything or contact me anytime
 
