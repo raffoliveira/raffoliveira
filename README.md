@@ -5,9 +5,9 @@
 
 👨🏽 I'm Rafael Oliveira
 
-👨🏽‍💻 A student of Computer Engineering at UFOP
+👨🏽‍💻 A Master's student in Computer Science at UFOP
 
-🔭 I'm currently learning about data science, data visualization, machine learning, web design, and devops
+🔭 I'm currently learning about data science, data visualization, machine learning, and devops
 
 🗣️ Feel free to ask me anything or contact me anytime
 
